@@ -1,0 +1,49 @@
+{
+    "expert_commentary": "The right to restriction of processing is one of the eight rights granted by the GDPR, but it is not the easiest one to understand at first glance. It can be summed up as an obligation on behalf of the controller to retain data, but they can neither be processed in any other manner nor modified.\n\nThe right is exercised in cases where there is no clear indication of whether personal data will be deleted on a precise legal ground or when. It is especially useful when the right to erasure (article 17) cannot be invoked immediately, if the organization has a legal obligation to retain the data, for example.\n\nA person has a limited right to restrict the processing of her/his data under four scenarios:\nif the accuracy of the concerned data is challenged;\nif the processing of the data was unlawful but the person opposed to their deleting;\nif the data are needed to establish, exercise or fight a legal claim; or\nif a person exercised her/his right to object (article 21) but the controller claimed \"compelling legitimate\" grounds for the processing.\n\nParagraph 2 of the provision entails the consequences of exercising one's right to restriction of processing. Aside from storage, the personal data cannot be processed anymore except i) with the consent of the person concerned; ii) in actions related to a legal claim; iii) for the protection of the rights of other persons (recital 73); or iv) if important public interests are involved (recital 73).\n\nThe GDPR text does not specify how to restrict the processing of personal data in cases where a person asks to, but recital 67suggests a non-exhaustive list of methods to achieve that goal. The data can be moved temporarily to another processing system, access to specific data can be restricted or data can be temporarily unpublished from a website. Technical means must ensure that data are not processed or changed where automated filing systems are concerned. The restrictions should be clearly mentioned whatever method is preferred (recital 67).\n\nThe duration of the restriction is also unclear. The European legal texts mention that data must not be processed \"for a period enabling the controller to verify [their] accuracy\", for example, or \"pending the verification\" whether exists a legitimate ground overriding a person's objection to processing. The time during which data cannot be processed will be a question of facts or of individual situations. One thing is clear though: a person must be informed before the restriction of processing is lifted.",
+    "guidelines_case_law": "",
+    "recitals": [
+        {
+            "number": 67,
+            "content": "Methods by which to restrict the processing of personal data could include, inter alia, temporarily moving the selected data to another processing system, making the selected personal data unavailable to users, or temporarily removing published data from a website. In automated filing systems, the restriction of processing should in principle be ensured by technical means in such a manner that the personal data are not subject to further processing operations and cannot be changed. The fact that the processing of personal data is restricted should be clearly indicated in the system."
+        }
+    ],
+    "title": "Right to restriction of processing",
+    "article_num": 18,
+    "articles": [
+        {
+            "title": "Right to obtain restriction of processing",
+            "number": 1,
+            "content": "The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:",
+            "clause": [
+                {
+                    "title": "(a)",
+                    "content": "the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data;"
+                },
+                {
+                    "title": "(b)",
+                    "content": "the processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead;"
+                },
+                {
+                    "title": "(c)",
+                    "content": "the controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims;"
+                },
+                {
+                    "title": "(d)",
+                    "content": "the data subject has objected to processing pursuant to Article 21(1) pending the verification whether the legitimate grounds of the controller override those of the data subject."
+                }
+            ]
+        },
+        {
+            "title": "Processing restrictions",
+            "number": 2,
+            "content": "Where processing has been restricted under paragraph 1, such personal data shall, with the exception of storage, only be processed with the data subject's consent or for the establishment, exercise or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the Union or of a Member State.",
+            "clause": []
+        },
+        {
+            "title": "Information requirement",
+            "number": 3,
+            "content": "A data subject who has obtained restriction of processing pursuant to paragraph 1 shall be informed by the controller before the restriction of processing is lifted.",
+            "clause": []
+        }
+    ]
+}

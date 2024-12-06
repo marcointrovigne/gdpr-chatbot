@@ -1,0 +1,24 @@
+{
+    "expert_commentary": "The Council of Europe recommended, in 1973, that \"inaccurate information\" should be corrected in the context of data compiled in electronic data banks (Resolution on the Protection of the Privacy of Individuals vis-a-vis Electronic Data Banks in the Private Sector). So, it is not surprising that the European Union 2016 General Data Protection Regulation provides for a \" right to rectification\". The surprise comes from the absence of guidance regarding the rights and responsibilities related to the exercise of that right.\n\nA person may ask the controller to rectify \" inaccurate personal data \" concerning him or her. The controller has the obligation to proceed to that rectification \"without undue delay\" and free of charge (recital 59). The right extends to complete incomplete data, a person being allowed to produce a supplementary statement to this end. In that event, the controller can accept or refuse the modification depending on the purposes of the processing.\n\nThe GDPR does not define what are \" inaccurate\" personal data, but the Court of Justice of the European Union excludes that the right to rectification extends to allowing a person to correct an incorrect answer to an exam ( Nowak). It does not mean that a person cannot ask to rectify an answer or an examiner's comment regarding the exam that does not accurately reflect the original answer of the candidate. It can happen if, for example, copies were mixed up and another candidate's answers were ascribed to the candidate concerned (Nowak).\n\nThe possibility to complete or rectify inaccurate or incomplete information can also be invoked in the context of profiling, i.e. when a company establishes profiles of employees or users for different reasons (advertising, marketing, work performance, and so on). It is the case where it uses personal data, usually through automated processing, to make decisions concerning them or to analyze or predict their personal preferences, behaviors or attitudes [article 4 (4) and recital 24].\n\nA \"profiled\" person may use her/his right of access (article 15) to learn what information was used to create the profile and the content of the profile itself. The \"right to rectification\" would allow her/him to amend, change or update any inaccuracies discovered ( Guidelines on Automated individual decision-making and Profiling ). A person might have been included in a category, for example, that does not correspond to her/his ability to perform a task at work or is irrelevant to her/his health condition. The person may challenge the accuracy of the information used and the end result, that is to say, the profile itself ( Guidelines on Automated individual decision-making and Profiling).",
+    "guidelines_case_law": "CJEU, Nowak/Data Protection Commissioner, C-434/16 (2017).",
+    "recitals": [
+        {
+            "number": 59,
+            "content": "The controller should process the data without undue delay and free of charge"
+        },
+        {
+            "number": 24,
+            "content": "Relates to profiling when a company uses personal data, usually through automated processing, to make decisions concerning them or to analyze or predict their personal preferences, behaviors or attitudes"
+        }
+    ],
+    "title": "Right to rectification",
+    "article_num": 16,
+    "articles": [
+        {
+            "title": "Right to rectification",
+            "number": 1,
+            "content": "The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.",
+            "clause": []
+        }
+    ]
+}
