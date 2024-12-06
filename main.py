@@ -15,7 +15,6 @@ def main():
     try:
         while True:
             message = input("Write your message (or 'quit' to exit): ").strip()
-
             if message.lower() == "quit":
                 print("Goodbye! Have a great day!")
                 break
@@ -28,13 +27,13 @@ def main():
             conversation_history.append(MessageSchema(sender=SenderType.USER, message=message))
 
             # Preprocess the message
-            reformulated = extract_article(chat_history=conversation_history, model="claude-3-5-haiku-20241022")
+            reformulated = extract_article(chat_history=conversation_history, model="claude-3-5-sonnet-20241022")
 
             # Get context from embeddings
             context = get_context(reformulated=reformulated)
 
             # Final answer
-            output = main_chat(chat_history=conversation_history, context=context, model="claude-3-5-haiku-20241022")
+            output = main_chat(chat_history=conversation_history, context=context, model="claude-3-5-sonnet-20241022")
 
             # Update conversation history
             conversation_history.append(MessageSchema(sender=SenderType.ASSISTANT, message=message))
